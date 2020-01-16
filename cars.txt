@@ -1,0 +1,27 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Toyota     red	  MINIVAN GAS_ENGINE      5.5  510 2WD 25550
+Honda      orange SPORTS  GAS_ENGINE      9.0  470 2WD 40000
+Kia        pink   MINIVAN GAS_ENGINE      5.6  500 2WD 31000
+BMW        blue   SUV     GAS_ENGINE      6.1  620 AWD 47000
+Tesla      yellow SEDAN   ELECTRIC_MOTOR  7.2  405 AWD 100000 40
+Chevy      green  MINIVAN GAS_ENGINE      8.4  455 2WD 50000
+ChevyVolt  black  SEDAN   ELECTRIC_MOTOR  7.0  385 AWD 42000  60
+Bentley    gray   SEDAN   GAS_ENGINE      5.2  595 2WD 170000
+NissanLeaf purple SEDAN   ELECTRIC_MOTOR  5.8  325 AWD 39000  75
+Toyota     white  SEDAN   GAS_ENGINE      7.8  550 2WD 30000
+Honda      white  SPORTS  GAS_ENGINE      9.1  410 2WD 35000
+Kia        black  MINIVAN GAS_ENGINE      6.9  570 2WD 28000
+BMW        lime   SPORTS  GAS_ENGINE      7.5  660 AWD 59000
+Tesla      brown  SUV     ELECTRIC_MOTOR  6.3  445 AWD 90000  45
+Chevy      gray   MINIVAN GAS_ENGINE      8.9  495 2WD 51000
+ChevyVolt  blue   SUV     ELECTRIC_MOTOR  9.2  395 AWD 43000  55
+Bentley    pink   SPORTS  GAS_ENGINE      6.1  505 2WD 199000
+NissanLeaf purple MINIVAN ELECTRIC_MOTOR  5.2  335 AWD 37000  65
